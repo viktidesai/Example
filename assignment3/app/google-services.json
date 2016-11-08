@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "503714643760",
+    "firebase_url": "https://remote-databases-in-class.firebaseio.com",
+    "project_id": "remote-databases-in-class",
+    "storage_bucket": "remote-databases-in-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503714643760:android:83fea877c69f001f",
+        "android_client_info": {
+          "package_name": "com.example.instructor.remotedatabasesinclassexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503714643760-d9l20tjthu26k8kju7prh12pbc8uct92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [ { "current_key": "" } ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
